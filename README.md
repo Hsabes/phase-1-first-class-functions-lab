@@ -29,7 +29,7 @@ Using the tests to guide you, create the following deliverables:
   return a new array containing the **first** two drivers in the array:
 
 ```js
-returnFirstTwoDrivers(['Antonia', 'Nuru', 'Amari', 'Mo'])
+returnFirstTwoDrivers()
 // => ['Antonia', 'Nuru']
 ```
 
